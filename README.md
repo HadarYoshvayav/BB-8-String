@@ -22,5 +22,5 @@ The name **BB8-Strings** pays homage to the beloved droid from *Star Wars*, symb
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/HadarYoshvayav/BB-8-Strings.git
+   git clone https://github.com/HadarYoshvayav/BB-8-String.git
    cd bb8-strings
