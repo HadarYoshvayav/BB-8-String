@@ -1,5 +1,5 @@
 # BB8-Strings
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wallpaperflare.com%2Fsearch%3Fwallpaper%3Dbb-8&psig=AOvVaw2C42Mwx5nlijeh4eh26M94&ust=1728501297303000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJDG8qG__4gDFQAAAAAdAAAAABAQ![image](https://github.com/user-attachments/assets/f075a994-f92a-4559-b6f0-b1e467797798)
+![BB-8](https://c4.wallpaperflare.com/wallpaper/97/1014/453/star-wars-bb-8-jakku-robot-wallpaper-preview.jpg)
 
 ## Description
 **BB8-Strings** is a Python application designed to extract strings and patterns from binary files. By utilizing regular expressions, this tool aims to identify potentially sensitive information, such as email addresses, IP addresses, MAC addresses, and other common keywords associated with malicious content.
