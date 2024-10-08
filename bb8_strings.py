@@ -19,9 +19,9 @@ class StringExtractor:
             with open(file_path, 'rb') as file:
                 content = file.read()
                 strings = content.decode(errors='ignore')
-                for label, pattern in self.patterns.items():  # השתמש ב.items() כדי לעבור על המילון
+                for label, pattern in self.patterns.items(): 
                     found = re.findall(pattern, strings)
-                    extracted_strings[label] = found  # שומר את התוצאות במילון
+                    extracted_strings[label] = found  
         except Exception as e:
             print(f"Error reading file {file_path}: {e}")
         
